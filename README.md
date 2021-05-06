@@ -6,7 +6,7 @@
 </a>
 
 - 🔭 I’m currently working on Crypto.com
-- 🌱 I’m currently learning Frontend Dev
+- 🌱 I’m currently learning english and cooking
 - 🤔 I’m looking for help with making money
 - 💬 Ask me about Frontend development
 - 📫 How to reach me: vuedev@163.com
