@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliconer&langs_count=3&hide_title=true&hide_border=true" />
 </a>
 
-- 🔭 I’m currently working on Crypto.com
+- 🔭 I’m currently working on Crypto.com and we are hiring
 - 🌱 I’m currently learning english and cooking
 - 🤔 I’m looking for help with making money
 - 💬 Ask me about Frontend development
